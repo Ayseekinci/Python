@@ -2,6 +2,7 @@
 class dikdortgen:
 
     kisakenar = int(input("Kısa kenar : "))
+
     def __init__(self, uzunkenar=18):
         self.uzunkenar = uzunkenar
 
